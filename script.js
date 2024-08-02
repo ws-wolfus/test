@@ -1,6 +1,6 @@
 // Replace with your actual Sheet ID and API Key
 const SHEET_ID = '2PACX-1vRr4p2BxvpnRJoTNH8wVmxnFBfP9oaRU9OU6vvLHrouJrriFpIpBHXxZCfLUD55swfHnmylhKhXhNJO';
-const API_KEY = 'AIzaSyDJAJC6KvIFU8ETm8xNcotqKzRcQkoEMmI';
+const API_KEY = 'AIzaSyBHwYWusNyhmd0KQut6powygycTcOUtcnk';
 const RANGE = 'Sheet1!A1:A1'; // Only fetching the first cell A1
 
 // Function to fetch data from Google Sheets
