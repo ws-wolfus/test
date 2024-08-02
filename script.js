@@ -1,5 +1,5 @@
 // Replace with your actual Sheet ID and API Key
-const SHEET_ID = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vRr4p2BxvpnRJoTNH8wVmxnFBfP9oaRU9OU6vvLHrouJrriFpIpBHXxZCfLUD55swfHnmylhKhXhNJO/pubhtml';
+const SHEET_ID = '2PACX-1vRr4p2BxvpnRJoTNH8wVmxnFBfP9oaRU9OU6vvLHrouJrriFpIpBHXxZCfLUD55swfHnmylhKhXhNJO';
 const API_KEY = 'AIzaSyDJAJC6KvIFU8ETm8xNcotqKzRcQkoEMmI';
 const RANGE = 'Sheet1!A1:A1'; // Only fetching the first cell A1
 
